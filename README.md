@@ -174,6 +174,20 @@ Enterprise agentic AI systems | LangGraph · MCP · RAG · LLMOps
 
 ---
 
+## Related Work
+
+**OWASP MCP Top 10 Implementations**
+Production security patterns for MCP agents mapped to OWASP MCP Top 10.
+Includes working attack demos for all 10 risks.
+github.com/dnyandeobharambe/mcp-security-patterns
+
+Together these repos cover both OWASP AI security frameworks:
+- OWASP LLM Top 10 — risks in LLM applications  
+- OWASP MCP Top 10 — risks in AI agent protocols
+
+---
+
+
 ## Contributing
 
 PRs welcome — especially:
