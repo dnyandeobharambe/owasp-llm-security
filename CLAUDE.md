@@ -24,9 +24,9 @@ Each folder:
 ## Completed
 - LLM01 ✅ — Prompt Injection — input sanitization + LLM Judge
 - LLM02 ✅ — Insecure Output Handling — output schema validation + Pydantic
+- LLM06 ✅ — Sensitive Info Disclosure — Presidio PII scrubbing
 
 ## In Progress — Complete These Next
-- LLM06 — Sensitive Info Disclosure — Presidio PII scrubbing
 - LLM08 — Excessive Agency — HITL gate in LangGraph
 
 ## Planned — Build After
