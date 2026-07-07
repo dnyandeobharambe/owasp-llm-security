@@ -26,12 +26,12 @@ Each folder:
 - LLM02 ✅ — Insecure Output Handling — output schema validation + Pydantic
 - LLM06 ✅ — Sensitive Info Disclosure — Presidio PII scrubbing
 - LLM08 ✅ — Excessive Agency — HITL approval gate (plain Python, no LangGraph — see LLM08 README)
+- LLM03 ✅ — Training Data Poisoning — provenance check + anomaly detection
 
 ## In Progress — Complete These Next
 (none — pick from Planned below)
 
 ## Planned — Build After
-- LLM03 — Training Data Poisoning — data provenance + validation
 - LLM04 — Model DoS — rate limiting + token budgets
 - LLM05 — Supply Chain — dependency verification
 - LLM07 — Insecure Plugin Design — MCP tool contract validation
